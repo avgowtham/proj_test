@@ -1,4 +1,10 @@
+<!doctype !html>
+<html>
+<head>
+</head>
+<body>
+<h1>Exploring github..!</h1>
 
-heyy im gowtham !!
+</body>
+</html>
 
-hey wassup
